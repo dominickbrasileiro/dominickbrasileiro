@@ -1,8 +1,14 @@
-<!-- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=dominickbrasileiro.visitor-badge)](https://github.com/dominickbrasileiro) -->
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dominickbrasileiro/)](https://www.linkedin.com/in/dominickbrasileiro/)
-[![Gist Badge](https://img.shields.io/badge/-Gist-555859?style=flat-square&logo=Github&logoColor=white&link=https://gist.github.com/dominickbrasileiro)](https://gist.github.com/dominickbrasileiro)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brasileiro.dominick@gmail.com)](mailto:brasileiro.dominick@gmail.com)
-<!-- [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/dominickbrasileiro/)](https://t.me/dominickbrasileiro/) -->
-<!-- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dominickbrasileiro)](https://github.com/dominickbrasileiro) -->
+<img width="auto" src="https://github.com/dominickbrasileiro/dominickbrasileiro/blob/master/banner.png" alt="Write Code">
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=dominickbrasileiro&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=default)](https://github.com/dominickbrasileiro)
+## Dominick Brasileiro 💎
+Fascinated by technology. I’m very demanding about my work, and I always try to offer the best result.
+<br />I'm a FullStack Developer 💻<br />
+<br /> 💙&nbsp; Looking to collaborate on projects using React and Node.js
+<br /> 💻&nbsp; My stack: ReactJS, Node.js, React Native & TypeScript
+<br /> 🌎&nbsp; I'm ready to be challenged!
+
+---
+
+🔥&nbsp; Get in touch!
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dominickbrasileiro)](https://www.linkedin.com/in/dominickbrasileiro/)&nbsp;[![Gmail Badge](https://img.shields.io/badge/-brasileiro.dominick@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brasileiro.dominick@gmail.com)](mailto:brasileiro.dominick@gmail.com)
