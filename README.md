@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/dominickbrasileiro/dominickbrasileiro/blob/master/banner.png" alt="Write Code">
+<img width="auto" src="https://github.com/dominickbrasileiro/dominickbrasileiro/blob/master/banner.png" alt="Banner">
 
 ## Dominick Brasileiro 💎
 Fascinated by technology. I’m very demanding about my work, and I always try to offer the best result.
