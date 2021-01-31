@@ -10,7 +10,3 @@ Fascinated by technology. I’m very demanding about my work, and I always try t
 🔥&nbsp; Get in touch!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dominickbrasileiro)](https://www.linkedin.com/in/dominickbrasileiro/)&nbsp;[![Gmail Badge](https://img.shields.io/badge/-brasileiro.dominick@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brasileiro.dominick@gmail.com)](mailto:brasileiro.dominick@gmail.com)
-
----
-
-![Dominick Brasileiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominickbrasileiro&count_private=true&theme=tokyonight)
