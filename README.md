@@ -1,6 +1,6 @@
 ## Dominick Brasileiro 💎
 Passionate about solving real-world problems using technology.
-<br />I'm a FullStack Developer 💻<br />
+<br />I'm a FullStack Developer 👋<br />
 <br /> 💙&nbsp; Looking to collaborate on projects using Flutter, React and Node.js
 <br /> 💻&nbsp; My stack: Flutter, ReactJS, Node.js, React Native & TypeScript
 <br /> 🌎&nbsp; I'm ready to be challenged!
